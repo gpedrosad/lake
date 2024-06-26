@@ -16,6 +16,7 @@ export default {
         'third-green':'#3C5220',
         'new-green': '#8DA260',
         'black-87': '#f5f5f5',
+        'button-green': '#8DA260',
       },
       screens: {
         'xs': '150px',  
